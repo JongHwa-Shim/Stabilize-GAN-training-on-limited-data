@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\ANACONDA\\envs\\sjh\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticMode": "workspace",
+    "terminal.intergrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
