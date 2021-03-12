@@ -3,5 +3,8 @@
     "python.linting.pylintEnabled": false,
     "python.languageServer": "Pylance",
     "python.analysis.diagnosticMode": "workspace",
-    "terminal.intergrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+    "terminal.intergrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorCustomizations": {
+        "editorSuggestWidget.background": "#21252BAA"
+    }
 }

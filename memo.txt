@@ -1,0 +1,6 @@
+사용할 데이터셋
+LSUN Bird dataset
+LSUN Cat dataset
+Stanford Dog Dataset
+	https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
+CelebA Dataset Ver.align
